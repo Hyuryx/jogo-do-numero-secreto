@@ -8,7 +8,7 @@ Este projeto é um Jogo no qual seu objetivo é descobrir qual o numero secreto 
 
 # Descrição do Jogo de Número Secreto.
     Design e Estilo
-      ° O site possui um design inspirado em um ambiente de decoficiaçao com numeros binários
+      ° O site possui um design inspirado em um ambiente gamer com tons Azuls e destaques em branco em suas informações.
       ° O fundo do site apresenta uma animação de códigos binários, criando um clima imersivo.
 
 # Funcionalidades Principais
@@ -17,7 +17,7 @@ Este projeto é um Jogo no qual seu objetivo é descobrir qual o numero secreto 
 
       ° Chutar: botão utilizado para chutar o valor inserido.
 
-      ° Novo jogo: botão para ser utilizado ao desejar iniciar um novo jogo.
+      ° Novo jogo: botão para ser utilizado ao encerrar ou desejar iniciar um novo jogo.
 
 
 # Interação com o Usuário
@@ -27,7 +27,7 @@ Este projeto é um Jogo no qual seu objetivo é descobrir qual o numero secreto 
 
 ## Desenvolvimento
 
-No desenvolvimento deste projeto, utilizamos HTML como base para criar a estrutura do `index.html`. O CSS foi empregado para estilizar o projeto, utilizamos JavaScript para uma organização clara e legível dos scripts e a implementação da inteligência da página.
+No desenvolvimento deste projeto, utilizamos HTML como base para criar a estrutura do `index.html`. O CSS foi empregado para estilizar o projeto sendo o `style.css`, e utilizamos JavaScript para uma organização clara e legível dos scripts e a implementação da inteligência da página `app.js`.
 
 ## Estrutura do Projeto
 
