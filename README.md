@@ -1,6 +1,6 @@
-# Jodo do Número Secreto - Challenge Jodo do Número Secreto - T7 One
+# Jogo do Número Secreto - Challenge Jogo do Número Secreto - T7 One
 
-Este aplicativo foi feito com base no "Challenge Decodificador de Texto" do projeto Oracle Next education em parceria com a Alura.
+Este aplicativo foi feito com base no "Challenge Jogo de Número Secreto" do projeto Oracle Next education em parceria com a Alura.
 
 # Sobre o Projeto
 
