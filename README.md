@@ -6,7 +6,7 @@ Este aplicativo foi feito com base no "Challenge Decodificador de Texto" do proj
 
 Este projeto é um Jogo no qual seu objetivo é descobrir qual o numero secreto em menor quantidade possível. O objetivo do projeto é aplicar os conhecimentos adquiridos durante o curso de programação para iniciantes oferecido pela Alura em parceria com a Oracle.
 
-# Descrição do Site de Criptografia e Descriptografia de Textos
+# Descrição do Jogo de Número Secreto.
     Design e Estilo
       ° O site possui um design inspirado em um ambiente de decoficiaçao com numeros binários
       ° O fundo do site apresenta uma animação de códigos binários, criando um clima imersivo.
